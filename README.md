@@ -1,2 +1,2 @@
 # CoffeeShop
-smal coffee shop inventory system. Just for fun.
+small coffee shop inventory system. Just for fun.
